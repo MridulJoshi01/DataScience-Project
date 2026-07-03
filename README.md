@@ -122,10 +122,4 @@ This project is open source and available for educational and learning purposes.
 **Mridul Joshi**  
 GitHub: [@MridulJoshi01](https://github.com/MridulJoshi01)
 
-## 📧 Contact & Support
-
-For questions or suggestions about these projects, feel free to open an issue or reach out through GitHub.
-
----
-
 **Last Updated:** July 2026
